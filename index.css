@@ -175,6 +175,7 @@ body {
 .container-article h2 {
     color: #d62828;
     font-size: 2em;
+    text-shadow: 1px 0px 1px rgba(0,0,0,0.5);
 }
 
 .article__cards{
@@ -234,6 +235,7 @@ body {
 
 .container-pdf h2{
     font-size: 2.5em;
+    
 }
 
 .container-pdf p {
@@ -297,6 +299,7 @@ body {
 .container-contacto h2 {
     font-size: 3em;
     color: #d62828;
+    text-shadow: 1px 0px 1px rgba(0,0,0,0.5);
 }
 
 .contacto__cards{
@@ -338,6 +341,7 @@ body {
     font-size: 1.3em;
     margin-top: 1.3em;
     color: #d62828;
+    
 
 }
 
@@ -415,7 +419,8 @@ body {
 
 .container-preguntas h2 {
     font-size: 3em;
-    color:#000;
+    color: #d62828;
+    text-shadow: 1px 0px 1px rgba(0,0,0,0.5);
 }
 
 
